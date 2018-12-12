@@ -1,0 +1,1 @@
+# yaml-generation-from-structure

@@ -1,0 +1,12 @@
+name: pankaj
+address:
+- village: anyari
+  street: "188"
+  post: chajlet
+  dist: moradabad
+  state: UP
+- village: anyari urf alinagar
+  street: "188"
+  post: chajlet
+  dist: moradabad
+  state: UP
